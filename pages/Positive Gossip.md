@@ -1,4 +1,6 @@
-## Problem
+public:: true
+
+- ## Problem
 -
 - ## Forces / Tensions
 - ## Solutions

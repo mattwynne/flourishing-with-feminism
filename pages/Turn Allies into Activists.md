@@ -1,3 +1,5 @@
+public:: true
+
 - You're becoming aware of the patriarchy's toxic impact on society, and you're someone whose identity (perhaps you're a white man) gives you some measure of free power and privilege compared to others.
 - ## Problem
 	- Instead of wallowing in guilt, or watching from the sidelines, you want to use your power for good. But how can you help?

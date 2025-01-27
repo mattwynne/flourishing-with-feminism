@@ -1,4 +1,6 @@
-## Context
+public:: true
+
+- ## Context
 - As [[An Ally]] you see something that needs to be said, but might make you unpopular by saying it.
 - ## Problem
 -

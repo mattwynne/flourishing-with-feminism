@@ -1,3 +1,5 @@
+public:: true
+
 - ![Screenshot 2024-10-16 at 10.14.31 AM.png](../assets/Screenshot_2024-10-16_at_10.14.31 AM_1729098909487_0.png){:height 333, :width 355}
 - You have the authority or esteem to be able to set the agenda for meetings of groups of people, such as at a conference talk or workshop, a community group or workplace.
 - ## Problem

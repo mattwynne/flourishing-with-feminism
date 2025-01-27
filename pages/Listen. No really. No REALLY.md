@@ -1,3 +1,5 @@
+public:: true
+
 - A collection of patterns including
 	- [[Listen and learn]]
 	- [[What did they already say?]]

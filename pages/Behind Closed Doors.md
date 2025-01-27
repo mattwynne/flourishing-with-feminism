@@ -1,3 +1,5 @@
+public:: true
+
 - [[Positive Gossip]]
 -
 - ## Related patterns
