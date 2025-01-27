@@ -1,0 +1,13 @@
+## Problem
+	- People in marginalized groups can feel isolated and can find it hard to make sense of unfair experiences, especially within a prevailing culture that professes itself to be meritocratic.
+- ## Forces/tensions
+	- These are often contentious spaces, as people from more dominant groups tend to see these as the very definition of "exclusive."
+- ## Solution
+	- The solution is to create safe spaces where people with similar experiences can compare notes, spot patterns, vent, and troubleshoot together
+- ## Consequences
+- ## Examples
+	- Affinity groups
+- ## Related Patterns
+	-
+- ## Sources
+	- Possibly *Campus Counterspaces* (but I haven't read it)

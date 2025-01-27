@@ -1,0 +1,21 @@
+- ![Screenshot 2024-10-16 at 10.14.31 AM.png](../assets/Screenshot_2024-10-16_at_10.14.31 AM_1729098909487_0.png){:height 333, :width 355}
+- You have the authority or esteem to be able to set the agenda for meetings of groups of people, such as at a conference talk or workshop, a community group or workplace.
+- ## Problem
+	- One of the ways patriarchy sustains itself is by discouraging people from talking about it (see [[Speak its name]] ). This makes it hard for people to learn about what it is, its impacts, and to decide what they want to do about it.
+- ## Forces/tensions
+	- Topics on patriarchy and feminism may be regarded as "too controversial" or "too political" to be accepted as conference sessions. (See [[Ride a Trojan Horse]]).
+	- These conversations can be hard, requiring emotional work from the participants.
+	- **But**
+		- Unless there is space for us to [[Listen and learn]] from each other, nothing will change.
+- ## Solution
+	- Use the influence to propose conference workshops, community meetup-up workshops or workspace brown-bag sessions where you raise the subject of patriarchy, provide some basic framing on the subject, and allow for dialogue between those who are impacted by it.
+- ## Consequences
+	- Simply proving a space for women and other minorities to [[Tell stories] about what they've had to go through has been described as "cathartic".
+	- For men, it can be enlightening to hear what those who are subjugated by the patriarchy have to go through every day.
+- ## Examples
+	- At Agile Open Canada in Banff 2023, I proposed a rotating "park bench" panel session entitled "Women Complain, and Men Listen". Only people identifying as women were allowed on the panel (unless they invited a man up to speak) and the panel discussed various questions from the audience about what it's like to experience sexism and discrimination at work.
+	- Our workshop at DDD Europe
+	- Our workshop at PLoPCon
+- ## Related Patterns
+	- Within the spaces we've created, we can [[Speak its name]] to increase awareness, and [[Tell Stories]] to create shared understanding, empathy and insight.
+	- You may need to use a [[Ride a Trojan Horse]] to get permission, or [[Find your own Allies]] who can help you to get a platform.

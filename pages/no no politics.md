@@ -1,0 +1,1 @@
+- Doesn't mean "no palestine" but some politics is inescapable, especially since e.g. trans identities have been made political

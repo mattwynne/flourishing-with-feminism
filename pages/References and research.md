@@ -1,0 +1,21 @@
+alias:: References
+
+- https://www.felienne.com/wp-content/uploads/2024/10/Feminism_in_Programming_Language_Design_CR_5-1.pdf
+- https://www.amazon.ca/Gender-Codes-Women-Leaving-Computing/dp/0470597194
+- https://www.amazon.ca/Feminism-Everybody-Passionate-bell-hooks/dp/0896086283
+- https://www.amazon.ca/White-Fragility-People-About-Racism/dp/0807047414
+- https://www.amazon.ca/Longer-Talking-White-People-About/dp/140887055X
+- “I don’t know what’s racist”: White Invisibility Among Explicitly Color-conscious Volunteers
+	- https://link.springer.com/article/10.1007/s11133-022-09511-9
+- https://www.amazon.ca/Gender-Knot-Unraveling-Patriarchal-Legacy/dp/1439911843
+- Counterspaces
+	- Race & higher ed: https://www.campus-counterspaces.com/
+	- Gender & higher ed: [Counterspaces for women of color in STEM higher education](https://onlinelibrary.wiley.com/doi/10.1002/tea.21417)
+		- "multiple researchers have demonstrated that social and interpersonal factors, more than other factors such as interest or academic preparation, impact decisions by women of color, and other underrepresented groups, to stay in or to leave STEM."
+		- "most intervention efforts implemented to increase persistence in STEM among students from racially/ethnically underrepresented groups and women have been rooted in a deficit model and only aimed to “fix” students—such as tutoring them, teaching them self-confidence, or socializing them into S&E"
+- I dunno, maybe the [McKinsey report](https://www.mckinsey.com/featured-insights/diversity-and-inclusion/women-in-the-workplace)
+- Counterstories
+	- [Storytelling for Oppositionists and Others: a Plea for Narrative](https://repository.law.umich.edu/mlr/vol87/iss8/10)
+		- "Oppressed groups have known instinctively that stories are an essential tool to their own survival and liberation."
+		- "Because this is a white-dominated society in which the majority race controls the reins of power, racial reform must include them. Their complacency - born of comforting stories - is a major stumbling block to racial progress. Counterstories can attack that complacency."
+		- Also two sections from p 2437: How Storytelling Benefits Members of Outgroups and Why Members of the Ingroup Should Listen to Stories.

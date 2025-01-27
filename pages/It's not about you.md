@@ -1,0 +1,1 @@
+- Something about patriarchy being male-centered, and remembering not to center this stuff on yourself.
